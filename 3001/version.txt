@@ -1,2 +1,4 @@
 640
 https://raw.githubusercontent.com/veageg/dsfdfsedef/master/3001/dh.apk
+1.微信对话生成器超强版终于发布啦，支持单聊，群聊，QQ，支付宝等.....
+2.微信一键转发神器也发布啦，赶紧更新体验吧!
